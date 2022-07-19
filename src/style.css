@@ -1,24 +1,24 @@
-.label {
+.container > label {
   display: block;
   margin: 10px 0;
 }
-
+  
 .container {
   margin: 20px 2px ;
 }
-
+  
 .containerTop {
   margin-top: 0;
 }
-
-.first {
+  
+.container > label.first {
   margin-top: 0;
 }
-
-.last {
+  
+.container > label.last {
   margin-bottom: 0;
 }
-
+  
 .radio {
   display: inline;
 }
